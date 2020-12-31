@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+.App {
+  background-color: black;
+}
+.login {
+  margin: auto;
+  margin-top: 100px;
+  width: 200px;
+  padding: 100px;
+}
